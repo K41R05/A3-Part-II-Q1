@@ -1,12 +1,12 @@
 # A3-Part-II-Q1
-includes: QuickSort.cpp, README.md, printOut.md (a script of the program log of running the algorithim)
+includes: Source.cpp, README.md, printOut.md (a script of the program log of running the algorithim)
 
-UPDATE: the QuickSort.cpp is broken, I commented close to the code that I was unable to make run unfortunately. I have the skeleton of what the broken portion looks like.
+UPDATE: the Source.cpp is broken, I commented close to the code that I was unable to make run unfortunately. I have the skeleton of what the broken portion looks like.
 
 README.md (This is the current file you're on)
   - Give a basic description of the QuickSort.cpp
 
-QuickSort.cpp is an integer array quicksort program.
+Source.cpp is an integer array quicksort program.
 It comes with a greeting and instructions for inputs: 
 "Hello and welcome to the Integer QuickSort Program!"
 "Please type out any integers to input (Enter a character when you're done inputting)"
