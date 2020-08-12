@@ -1,6 +1,8 @@
 # A3-Part-II-Q1
 includes: QuickSort.cpp, README.md, printOut.md (a script of the program log of running the algorithim)
 
+UPDATE: the QuickSort.cpp is broken, I commented close to the code that I was unable to make run unfortunately. I have the skeleton of what the broken portion looks like.
+
 README.md (This is the current file you're on)
   - Give a basic description of the QuickSort.cpp
 
@@ -24,4 +26,4 @@ Then the program will call itself recursively through sublists based on the diff
 
 Once the intArray has been sorted, it will then be printed out by a helper function.
 
-A sample of the Integer QuickSort program is provided through: printOut.md.
+A sample of the Integer QuickSort program is provided through: printOut.md. (This will include my last best attempt)
